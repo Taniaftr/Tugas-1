@@ -1,0 +1,37 @@
+Nama  : Tania Frentinur
+NIM   : 062040832808
+Absen : 16
+
+1. Apa itu git dan kegunaannya?
+Jawab :
+GIT adalah sebuah version control system yang telah digunakan oleh para developer untuk dapat menggunakan software secara bersamaan.
+Fungsinya : mengatur versi source code program dengan memberikan tanda baris serta code mana yang perlu ditambah ataupun diganti.
+
+2. Apa itu github dan kegunaannya?
+Jawab : 
+GitHub adalah manajemen project, sistem versioning code, sekaligus platform jaringan sosisal bagi para developer seluruh dunia.
+Fungsinya : digunakan untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu.
+
+3. Sebutkan istilah-istilah yang ada di git dan jelaskan masing-masing istilah tersebut?
+Jawab : 
+Repo/Repository : Folder suatu project
+Init            : Digunakan untuk membuat repository di file lokal.
+Status          : Digunakan untuk mengetahui sebuah status dari sebuah repository lokal.
+Add             : Peritah yang digunakan untuk menambahkan file baru di repository yang dipilih.
+Commit          : Rekaman/Snapshot dari repository (Riwayat perubahan repository).
+Branch          : Perintah untuk melihat untuk melihat semua cabang di repository.
+Checkout        : Untuk menukar branch yang aktif dengan bracht yang sudah dipilih.
+Merge           : Digunakan untuk menggabungkan cabang aktif serta cabang yang dipilih.
+Clone           : Digunakan untuk mengkloning repository.
+Push            : Digunakan dalam mengirimkan perubahan file yang dilakukan setelah di commit ke remote repository.
+Pull            : Digunakan untuk mendapat kode-kode terupdateyang ada pada repository.
+Hash            : Penanda unik pada sebuah commit (Terdiri dari angka dan huruf yang panjang).
+
+4. Sebutkan layanan selain github?
+Jawab :
+* SourceForge
+* CodePlex
+* BitBucket
+* GitLab
+* BeanStalk
+* Google Cloud Source
